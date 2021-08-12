@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-image: url("https://st4.depositphotos.com/1783479/21867/v/1600/depositphotos_218673592-stock-illustration-paw-print-background-cat-dog.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .App-logo {

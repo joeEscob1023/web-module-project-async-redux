@@ -26,6 +26,7 @@ const Cat = (props) => {
     <>
       <h2>Check Out this cat!</h2>
       <img src={cat} alt="cat" width={200} />
+      <br />
       <button onClick={handleClick}>Get A New Cat!</button>
     </>
   );
